@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AI_Kundtjänst": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\John Walker\\source\\repos\\AI_Kundtjänst\\AI_Kundtjänst"
+    }
+  }
+}
